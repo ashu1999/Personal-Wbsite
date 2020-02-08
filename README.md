@@ -1,2 +1,2 @@
-# Personal-Wbsite
+# Personal-Website
 It helps in creating personal websites.
